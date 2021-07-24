@@ -1,7 +1,8 @@
-import React from 'react'
+import React from 'react';
+import '../styles/header.css'
 
-const header = () => {
+const Header = () => {
 
 }
 
-export default header
+export default Header

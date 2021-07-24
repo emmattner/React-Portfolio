@@ -10,18 +10,21 @@
     "antd": "^4.16.8",
     "bootstrap": "^5.0.2",
     "express": "^4.17.1",
+    "gatsby-plugin-smoothscroll": "^1.2.0",
     "mongoose": "^5.13.3",
     "react": "^17.0.2",
     "react-bootstrap": "^1.6.1",
     "react-dom": "^17.0.2",
+    "react-fade": "^1.1.1",
+    "react-reveal": "^1.2.2",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "start": "npm start",
-    "build": "npm build",
-    "test": "npm test",
-    "eject": "npm eject"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [

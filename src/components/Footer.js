@@ -3,7 +3,9 @@ import '../styles/footer.css'
 
 const Footer = () => {
     return (
-        <div> Created By Emma Mattner </div>
+        <div className="footer"> 
+        <h4 class="has-text-weight-bold">Made with ❤️️  by Emma Mattner &copy; 2021</h4>
+        </div>
     );
 }
 

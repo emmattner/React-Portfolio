@@ -23,9 +23,13 @@ This application This application employs the following dependencies:
  * React
 
 ## Application ScreenShots
+![react-portfolio](https://user-images.githubusercontent.com/78684306/132116142-779c80db-c615-4255-8852-5501ef8d7d34.png)
 
 
-## Application Demo 
+
+## Application Link
+
+https://emmas-react-portfolio.herokuapp.com/
 
 
 

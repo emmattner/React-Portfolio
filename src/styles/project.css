@@ -15,5 +15,4 @@
         margin-top: 20px;
         grid-template-columns: repeat(3, 1fr);
         grid-gap: 10px;
-        margin-right: 50px;
     }

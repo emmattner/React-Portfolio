@@ -17,6 +17,8 @@ const Navigation = () => {
     </div>
             <div className="links-wrapper">
                 <button onClick={() => scrollTo("#work")}>Work</button>
+                <button onClick={() => scrollTo("#about")}>About Me</button>
+                <button onClick={() => scrollTo("#resume")}>Resume</button>
                 <button onClick={() => scrollTo("#contact")}>Contact</button>
             </div>
         </div>
